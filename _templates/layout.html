@@ -1,0 +1,17 @@
+{% extends "!layout.html" %}
+{% block menu %}
+    {{ super() }}
+{% endblock %}
+
+{% block footer %}
+    {{ super() }}
+    <style>
+        .wy-menu-vertical a:hover {
+          background-color: #227401;
+        }
+        /* Sidebar header (and topbar for mobile) */
+        .wy-side-nav-search, .wy-nav-top {
+            background: #227401;
+        }
+    </style>
+{% endblock %}
