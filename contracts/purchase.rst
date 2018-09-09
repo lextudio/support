@@ -11,7 +11,7 @@ This page shows the purchase options.
 
 Professional Support Services
 -----------------------------
-Professional Support is available as a single “pay-per-incident” (PPI) or an
+Professional Support is available as a single "pay-per-incident" (PPI) or an
 annual contract with five incidents. Professional Support incidents focus on
 troubleshooting a specific problem, error message, or functionality that is not
 working as intended for our products. An incident is defined as a single
