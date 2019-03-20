@@ -382,7 +382,7 @@ epub_exclude_files = ['search.html']
 
 feed_num_items = 15
 feed_skip_regex = '(.)*index'
-feed_base_url = 'http://support.lextudio.com'
+feed_base_url = 'https://support.lextudio.com'
 feed_description = 'LeXtudio Support Documentation'
 feed_author = 'LeXtudio'
 

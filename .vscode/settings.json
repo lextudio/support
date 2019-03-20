@@ -3,5 +3,5 @@
     "editor.rulers": [
         79
     ],
-    "restructuredtext.confPath": "/Users/lextm/support-docs"
+    "restructuredtext.confPath": "${workspaceFolder}"
 }
