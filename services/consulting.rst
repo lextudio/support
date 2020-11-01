@@ -28,6 +28,8 @@ The following products are covered by this service,
   * .NET debugging
   * reStructuredText and Sphinx
   * VSTS and Azure App Service
+  * Windows installer for apps (WiX or Inno Setup)
+  * macOS installer for apps (pkg)
 
 .. note:: Each products has its own supported releases and underlying
    platforms. Thus, verify that before buying this service.
