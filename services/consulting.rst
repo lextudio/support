@@ -21,18 +21,22 @@ The following products are covered by this service,
 * PHP Manager for IIS
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
-* General technical topics,
-  * SNMP and MIB.
-  * Mono.Cecil.
-  * IIS (8/8.5/10)
-  * .NET debugging
-  * reStructuredText and Sphinx
-  * VSTS and Azure App Service
-  * Windows installer for apps (WiX or Inno Setup)
-  * macOS installer for apps (pkg)
 
 .. note:: Each products has its own supported releases and underlying
    platforms. Thus, verify that before buying this service.
+
+General Topics Covered
+----------------------
+The following areas are covered by this service,
+
+* SNMP and MIB
+* Mono.Cecil
+* IIS (8/8.5/10) and IIS Express
+* .NET debugging and performance tuning
+* reStructuredText and Sphinx
+* VSTS and Azure App Service
+* Windows installer for apps (WiX or Inno Setup)
+* macOS installer for apps (pkg)
 
 Standard Process
 ----------------
