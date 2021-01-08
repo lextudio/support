@@ -77,6 +77,6 @@ YOU ARE RESPONSIBLE FOR YOUR USE OF THE SUPPORT SERVICES AND ARE LIABLE FOR ANY 
 
 Contracting Party, Governing Law, and Location for Resolving Disputes
 ---------------------------------------------------------------------
-You are contracting with LeXtudio Inc., 236 Bowood Ave, Toronto, ON M4N 1Y6, Canada. Ontarion province law governs the interpretation of this Service Agreement and claims for breach of it, regardless of conflict of laws principles. The laws of the country where you live govern all other claims, including consumer protection, unfair competition, and tort claims.
+You are contracting with LeXtudio Inc., 236 Bowood Ave, Toronto, ON M4N 1Y6, Canada. Ontario province law governs the interpretation of this Service Agreement and claims for breach of it, regardless of conflict of laws principles. The laws of the country where you live govern all other claims, including consumer protection, unfair competition, and tort claims.
 
 .. note:: Last Updated: Jan 8, 2021
