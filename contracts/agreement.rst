@@ -1,3 +1,6 @@
+LeXtudio Inc. Customer Support Service Agreement
+================================================
+
 .. note:: You should read and print this service agreement for your records.
 
 This service agreement (“**Service Agreement**”) applies to Support Services (defined below) and is entered into by and between the customer using the Support Services (“**you**” or “**your**”) and LeXtudio Inc. (“**we,**” “**us**” or “**our**”) (**you** and **us**, each, a “**Party**” and, collectively, the “**Parties**”).
