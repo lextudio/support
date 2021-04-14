@@ -22,9 +22,10 @@ The following products are covered by this service,
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
 * General technical topics,
+  
   * SNMP and MIB.
   * Mono.Cecil.
-  * IIS (7/7.5/8/8.5/10)
+  * IIS (8/8.5/10)
   * .NET debugging
   * reStructuredText and Sphinx
   * VSTS and Azure App Service
