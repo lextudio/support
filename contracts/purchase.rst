@@ -19,12 +19,12 @@ support issue and the reasonable effort to resolve it. Incidents may be
 submitted online. Response time will be between 2 and 8 hours, depending on
 severity of incident.
 
-===================================================  ============================  ====================================================================================================  ========================================================================================  ====
-Contract Types                                       Price                         To Purchase                                                                                           Business hours                                                                            To submit incident
-===================================================  ============================  ====================================================================================================  ========================================================================================  ====
-Professional Support Single Incident                 $350 CAD for one incident     `Buy Single <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MQD6APPAMMVFW>`_    7:00 PM – 10:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
-Professional Support 5-Pack Annual Support Contract  $1750 CAD for five incidents  `Buy Multiple <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BTSEXR62LQEPA>`_  7:00 PM – 10:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
-===================================================  ============================  ====================================================================================================  ========================================================================================  ====
+===================================================  ============================  ===========================================================  ========================================================================================  ====
+Contract Types                                       Price                         To Purchase                                                  Business hours                                                                            To submit incident
+===================================================  ============================  ===========================================================  ========================================================================================  ====
+Professional Support Single Incident                 $350 CAD for one incident     `Buy Single <https://buy.stripe.com/14k01U4Oy4go9skcMQ>`_    7:00 PM – 10:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
+Professional Support 5-Pack Annual Support Contract  $1750 CAD for five incidents  `Buy Multiple <https://buy.stripe.com/8wM5megxgbIQ7kceUZ>`_  7:00 PM – 10:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
+===================================================  ============================  ===========================================================  ========================================================================================  ====
 
 Business-critical after-hours support is available for $700 CAD per incident
 and provides support only for business-critical issues. Service is available
