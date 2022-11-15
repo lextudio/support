@@ -46,7 +46,7 @@ Standard Process
 
    .. important:: Due to technical difficulty and resource restraints, not all
       support requests can be fulfilled. So writing to us before making a
-      purchase to avoid unneccessary refund processes, which has extra cost.
+      purchase to avoid unnecessary refund processes, which has extra cost.
 
 #. Our support team reply and set a scope for the support ticket.
 
