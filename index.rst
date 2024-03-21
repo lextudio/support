@@ -47,3 +47,13 @@ Services and Contracts
 
     services/index
     contracts/index
+
+Privacy Policy
+--------------
+
+This site collects some information to improve user experience. Please read our privacy policy for details.
+
+.. toctree::
+    :titlesonly:
+
+    privacy
