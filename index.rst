@@ -10,8 +10,12 @@ LeXtudio Documentation
 
 This site contains the documentation for LeXtudio's products and services.
 
-.NET Products
--------------
+Products
+--------
+
+
+.NET Libraries and Tools
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
@@ -19,9 +23,10 @@ This site contains the documentation for LeXtudio's products and services.
    #SNMP Library <https://docs.lextudio.com/sharpsnmplib>
    #SNMP Pro <https://docs.lextudio.com/sharpsnmppro>
    Obfuscar <https://docs.lextudio.com/obfuscar>
+   DockPanel Suite <https://dockpanelsuite.com>
 
-Python Products
----------------
+Python Libraries and Tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
@@ -29,15 +34,14 @@ Python Products
    reStructuredText for VS Code <https://docs.lextudio.com/restructuredtext>
    PySNMP <https://www.pysnmp.com>
 
-Other Products
---------------
+IIS Tools
+^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
 
    Jexus Manager for IIS/IIS Express <https://docs.lextudio.com/jexusmanager>
    PHP Manager for IIS <https://docs.lextudio.com/phpmanager>
-   DockPanel Suite <https://dockpanelsuite.com>
 
 Services and Contracts
 ----------------------
