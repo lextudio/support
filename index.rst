@@ -23,7 +23,7 @@ Products
    #SNMP Library <https://docs.lextudio.com/sharpsnmplib>
    #SNMP Pro <https://docs.lextudio.com/sharpsnmppro>
    Obfuscar <https://docs.lextudio.com/obfuscar>
-   DockPanel Suite <https://dockpanelsuite.com>
+   DockPanel Suite <http://www.dockpanelsuite.com>
 
 Python Libraries and Tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
