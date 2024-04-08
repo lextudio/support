@@ -6,15 +6,12 @@ By `Lex Li`_
 If you want to learn the projects maintained by LeXtudio and would like to
 receive official training, this service is for you.
 
-.. contents:: In this article:
-  :local:
-  :depth: 1
-
 Products Covered
 ----------------
 The following products are covered by this service,
 
 * #SNMP Pro and Library
+* PySNMP, PySMI, snmpsim, and other PySNMP ecosystem components
 * Obfuscar
 * DockPanel Suite
 * Jexus Manager

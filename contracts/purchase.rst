@@ -1,13 +1,7 @@
 Purchase Options
 ================
 
-By `Lex Li`_
-
 This page shows the purchase options.
-
-.. contents:: In this article:
-  :local:
-  :depth: 1
 
 Professional Support Services
 -----------------------------

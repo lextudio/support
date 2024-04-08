@@ -1,20 +1,15 @@
 Onsite Service
 ==============
 
-By `Lex Li`_
-
 If you want to invite Lex to your location to work on training or consulting,
 this service is for you.
-
-.. contents:: In this article:
-  :local:
-  :depth: 1
 
 Products Covered
 ----------------
 The following products are covered by this service,
 
 * #SNMP Pro and Library
+* PySNMP, PySMI, snmpsim, and other PySNMP ecosystem components
 * Obfuscar
 * DockPanel Suite
 * Jexus Manager
