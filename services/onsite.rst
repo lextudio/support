@@ -23,7 +23,8 @@ The following products are covered by this service,
 Standard Process
 ----------------
 
-#. Write to `our support mailbox <mailto:support@lextudio.com>`_ with the
+#. Leave a message on `our homepage <https://lextudio.com>` or write to
+   `our support mailbox <mailto:support@lextudio.com>`_ with the
    request you would like to discuss.
 
    .. important:: Due to technical difficulty and resource restraints, not all
