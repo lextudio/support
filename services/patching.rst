@@ -17,7 +17,9 @@ The following products are covered by this service,
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
 
-.. note:: Each products has its own supported releases and underlying
+.. note::
+
+   Each products has its own supported releases and underlying
    platforms. Thus, verify that before buying this service.
 
 Standard Process
@@ -27,14 +29,22 @@ Standard Process
    `our support mailbox <mailto:support@lextudio.com>`_ with the issue
    you would like to discuss.
 
-   .. important:: Due to technical difficulty and resource restraints, not all
+   .. important::
+
+      Due to technical difficulty and resource restraints, not all
       support requests can be fulfilled. So writing to us before making a
-      purchase to avoid unneccessary refund processes, which has extra cost.
+      purchase to avoid unnecessary refund processes, which has extra cost.
+
+      Besides, this service only covers bugfixes which have been confirmed
+      and reproducible. If you need assistance on investigation, please
+      consider our `consulting service <services/consulting>`_.
 
 #. Our support team reply and set a scope for the support ticket.
 
-   .. important:: If a specific scope cannot be set, this ticket will be
-      cancelled and no support will be provided.
+   .. important::
+
+      If a specific scope cannot be set, this ticket will be cancelled and no
+      support will be provided.
 
 #. You pay the ticket fee via :doc:`/contracts/purchase`.
 #. LeXtudio starts to work on the ticket till its closure.

@@ -16,8 +16,8 @@ severity of incident.
 ===================================================  ============================  ============================  ========================================================================================  ====
 Contract Types                                       Price                         To Purchase                   Business hours                                                                            To submit incident
 ===================================================  ============================  ============================  ========================================================================================  ====
-Professional Support Single Incident                 $350 CAD for one incident     Contact us for purchase link  7:00 PM – 10:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
-Professional Support 5-Pack Annual Support Contract  $1750 CAD for five incidents  Contact us for purchase link  7:00 PM – 10:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
+Professional Support Single Incident                 $350 CAD for one incident     Contact us for purchase link  10:00 AM – 7:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
+Professional Support 5-Pack Annual Support Contract  $1750 CAD for five incidents  Contact us for purchase link  10:00 AM – 7:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
 ===================================================  ============================  ============================  ========================================================================================  ====
 
 Business-critical after-hours support is available for $700 CAD per incident
@@ -39,10 +39,16 @@ Professional Advisory services are provided for the same price as a
 Professional Support incident, and the delivery time is expected be similar to
 a support incident, typically 2 to 3 hours. Requests may be rescoped to fit the
 limited delivery time or the service may be declined. Professional Advisory
-services are available during normal business hours: 7:00 PM – 10:00 PM Eastern
+services are available during normal business hours: 10:00 AM – 7:00 PM Eastern
 Time Zone Monday to Friday, excluding public holidays. Response time will be 8
 hours. Simply contact `the support team`_ , stating that you want Professional
 Advisory Services.
 
 .. _Get Started: mailto:support@lextudio.com
 .. _the support team:  mailto:support@lextudio.com
+
+Related Resources
+-----------------
+
+- :doc:`/return-policy`
+- :doc:`/privacy`
