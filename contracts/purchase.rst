@@ -16,11 +16,11 @@ severity of incident.
 ===================================================  ============================  ============================  ========================================================================================  ====
 Contract Types                                       Price                         To Purchase                   Business hours                                                                            To submit incident
 ===================================================  ============================  ============================  ========================================================================================  ====
-Professional Support Single Incident                 $350 CAD for one incident     Contact us for purchase link  10:00 AM – 7:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
-Professional Support 5-Pack Annual Support Contract  $1750 CAD for five incidents  Contact us for purchase link  10:00 AM – 7:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
+Professional Support Single Incident                 399 USD for one incident      Contact us for purchase link  10:00 AM – 7:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
+Professional Support 5-Pack Annual Support Contract  1750 USD for five incidents   Contact us for purchase link  10:00 AM – 7:00 PM Eastern Time Zone, Monday through Friday, excluding public holidays	   `Get Started`_
 ===================================================  ============================  ============================  ========================================================================================  ====
 
-Business-critical after-hours support is available for $700 CAD per incident
+Business-critical after-hours support is available for 798 USD per incident
 and provides support only for business-critical issues. Service is available
 after business hours, on weekends, and during public holidays. To purchase
 after-hours support, please contact `the support team`_ directly.
