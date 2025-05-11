@@ -33,7 +33,7 @@ The following products are covered by this service,
 Standard Process
 ----------------
 
-#. Leave a message on `our homepage <https://lextudio.com>` or write to
+#. Leave a message on `our homepage <https://lextudio.com>`_ or write to
    `our support mailbox <mailto:support@lextudio.com>`_ with the
    request on what kind of training you would like to take.
 

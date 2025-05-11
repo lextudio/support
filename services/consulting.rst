@@ -36,7 +36,7 @@ The following areas are covered by this service,
 Standard Process
 ----------------
 
-#. Leave a message on `our homepage <https://lextudio.com>` or write to
+#. Leave a message on `our homepage <https://lextudio.com>`_ or write to
    `our support mailbox <mailto:support@lextudio.com>`_ with the issue
    you would like to discuss.
 
