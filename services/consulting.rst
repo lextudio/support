@@ -11,9 +11,7 @@ The following products are covered by this service,
 * #SNMP Pro and Library
 * PySNMP, PySMI, snmpsim, and other PySNMP ecosystem components
 * Obfuscar
-* DockPanel Suite
 * Jexus Manager
-* PHP Manager for IIS
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
 
@@ -26,10 +24,13 @@ The following areas are covered by this service,
 
 * SNMP and MIB
 * Mono.Cecil
-* IIS (8/8.5/10) and IIS Express
+* IIS 10 and IIS Express configuration and troubleshooting
 * .NET debugging and performance tuning
+* Migration from .NET Framework to .NET 
 * reStructuredText and Sphinx
-* VSTS and Azure App Service
+* VSTS and Azure DevOps
+* Azure App Service
+* Migration from on-premise to Azure
 * Windows installer for apps (WiX or Inno Setup)
 * macOS installer for apps (pkg)
 
