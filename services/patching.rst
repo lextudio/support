@@ -12,8 +12,7 @@ The following products are covered by this service,
 * PySNMP, PySMI, snmpsim, and other PySNMP ecosystem components
 * Obfuscar
 * DockPanel Suite
-* Jexus Manager
-* PHP Manager for IIS
+* Jexus Manager and IIS operations
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
 
@@ -55,3 +54,4 @@ Related Resources
 - :doc:`/services/consulting`
 - :doc:`/services/training`
 - :doc:`/services/onsite`
+- :doc:`/services/security`

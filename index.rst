@@ -10,6 +10,15 @@ LeXtudio Documentation
 
 This site contains the documentation for LeXtudio's products and services.
 
+Cloud & Security Expansion
+--------------------------
+
+LeXtudio has expanded its professional services to focus more on Microsoft Azure
+solutions and the Microsoft Security product line (Defender XDR, Sentinel, Entra ID,
+Purview). We now offer architecture & migration guidance, cost optimization,
+deployment automation, observability integration, and Microsoft Security platform
+enablement services. See :doc:`services/index` for details.
+
 Products
 --------
 
@@ -41,7 +50,6 @@ IIS Tools
    :maxdepth: 2
 
    Jexus Manager for IIS/IIS Express <https://docs.lextudio.com/jexusmanager>
-   PHP Manager for IIS <https://docs.lextudio.com/phpmanager>
 
 Services and Contracts
 ----------------------

@@ -14,18 +14,19 @@ The following products are covered by this service,
 * PySNMP, PySMI, snmpsim, and other PySNMP ecosystem components
 * Obfuscar
 * DockPanel Suite
-* Jexus Manager
-* PHP Manager for IIS
+* Jexus Manager and IIS operations
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
-* General technical topics,
-  
-  * SNMP and MIB.
-  * Mono.Cecil.
-  * IIS (8/8.5/10)
-  * .NET debugging
-  * reStructuredText and Sphinx
-  * VSTS and Azure App Service
+* General technical & platform topics,
+
+  * SNMP and MIB
+  * Mono.Cecil
+  * IIS (8/8.5/10) & hosting strategies
+  * .NET debugging & performance tuning
+  * reStructuredText and Sphinx authoring automation
+  * Azure architecture fundamentals (governance, networking, identity, data services)
+  * Azure deployment & DevOps (Bicep/Terraform, GitHub Actions, release hardening)
+  * Microsoft Security platform operations (Defender XDR, Sentinel onboarding basics, Conditional Access fundamentals)
 
 .. note:: Some products might not have a standard training yet. Delivery of
    such traing might be deferred to a later time.

@@ -4,18 +4,18 @@ Onsite Service
 If you want to invite Lex to your location to work on training or consulting,
 this service is for you.
 
-Products Covered
-----------------
-The following products are covered by this service,
+Products & Domains Covered
+--------------------------
+The following products and domains are covered by this service,
 
 * #SNMP Pro and Library
 * PySNMP, PySMI, snmpsim, and other PySNMP ecosystem components
 * Obfuscar
-* DockPanel Suite
-* Jexus Manager
-* PHP Manager for IIS
+* Jexus Manager / IIS operations
 * reStructuredText for Visual Studio Code
 * Other projects backed by LeXtudio
+* Azure architecture & modernization workshops
+* Application & pipeline security deep dives
 
 .. note:: Each products has its own supported releases and underlying
    platforms. Thus, verify that before buying this service.
