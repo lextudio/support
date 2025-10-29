@@ -1,5 +1,5 @@
 Azure Architecture & Modernization Service
-=========================================
+==========================================
 
 If you are planning new workloads on Microsoft Azure or modernizing existing
 on-premises / IaaS systems, this service helps you design, validate, and

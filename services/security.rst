@@ -1,5 +1,5 @@
 Microsoft Security Product Line Service
-======================================
+=======================================
 
 This offering is narrowly focused on helping you deploy, tune, and operationalize
 the Microsoft Security product stack. It intentionally excludes general

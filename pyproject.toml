@@ -5,7 +5,8 @@ description = "LeXtudio support documentation (Sphinx site)"
 authors = [
   { name = "LeXtudio Inc." }
 ]
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE.txt"]
 readme = "README.md"
 requires-python = ">=3.11"
 
