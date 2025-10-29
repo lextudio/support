@@ -1,0 +1,22 @@
+[project]
+name = "support-docs"
+version = "0.1.0"
+description = "LeXtudio support documentation (Sphinx site)"
+authors = [
+  { name = "LeXtudio Inc." }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.11"
+
+# Runtime dependencies (was Pipfile [packages])
+dependencies = [
+  "sphinx",
+  "sphinx-copybutton",
+  "sphinx-sitemap-lextudio",
+  "sphinx-notfound-page",
+  "furo"
+]
+
+
+# This project is a documentation site; no build backend needed for distribution.

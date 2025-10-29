@@ -1,2 +1,11 @@
 /_build/
 /_ext/__pycache__
+
+# uv / Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Include lock file in version control (remove if you prefer not to pin)
+# Uncomment next line to ignore uv.lock instead of committing it.
+# uv.lock
